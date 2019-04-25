@@ -1,0 +1,21 @@
+{
+  "name": "ucflm201901data2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "copy_activities": "py utils/copy_activities.py",
+    "copy_homework": "py utils/copy_homework.py",
+    "make_folders": "py utils/make_folders.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UCF-Coding-Boot-Camp/UCFLM201901DATA2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UCF-Coding-Boot-Camp/UCFLM201901DATA2/issues"
+  },
+  "homepage": "https://github.com/UCF-Coding-Boot-Camp/UCFLM201901DATA2#readme"
+}
